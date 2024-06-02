@@ -1,0 +1,6 @@
+
+a game where a player can pick up lasers, optics, power, added lightness,...
+bring these items to a projector
+the projector gets brighter/stronger/etc depending on what was added
+the boss-type guy screaming for more and better and quicker
+player can pick up the projector and can run forward and "laserbeam" the competition / viewers away
